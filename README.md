@@ -8,5 +8,5 @@ This android application is for kids who wants to learn numericals numbers  with
 
 <img src ="https://user-images.githubusercontent.com/20206625/43831900-4cd75114-9b23-11e8-8adf-037b87029e8e.png" width="290" height="450">
 
-<img src ="https://user-images.githubusercontent.com/20206625/43831939-6c3d50d0-9b23-11e8-93eb-9f560e615dd1.png" "width="290" height="450">
+<img src ="https://user-images.githubusercontent.com/20206625/43831939-6c3d50d0-9b23-11e8-93eb-9f560e615dd1.png" width="290" height="450">
 </p>
